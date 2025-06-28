@@ -1,7 +1,25 @@
 # Visualization Tool For Electric Vehicle Charge and Range Analysis using Tableau
 
-< img src="![EV CAR](https://github.com/user-attachments/assets/f8dcb338-f395-4d55-a714-e87d20e22752)" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/a86b1185-f2e3-41f4-882f-61fdf964626b" width="1000" height="500">
 
-#Features
+# Features
 
-![EV CAR](https://github.com/user-attachments/assets/f8dcb338-f395-4d55-a714-e87d20e22752=250x250)
+.📊Interactive Electric Cars in India Dashboard
+
+.🔝Top 10 Most Efficient EV Brands
+
+.🌎 Charging Stations in India Map
+
+.🏎️Top Speed for Different EV Cars in india 
+
+
+
+# Tech Stack
+
+.Tableau Public
+
+.Tableau Preb Builder
+
+.Excel/CSV (Datasets)
+
+.GitHub (Documentation Hosting)
