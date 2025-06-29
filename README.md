@@ -74,3 +74,14 @@ All design thinking documentation, storyboards, and architecture are available i
 ## Feedback
 
 If you find this helpful or have ideas to improve it, feel free to open an issue or reach me at [simhadridharahaas23@gmail.com].
+
+
+![Static Badge](https://img.shields.io/badge/Tableau-1c0c6f?style=plastic) 
+
+![Static Badge](https://img.shields.io/badge/Data_Visualization-310a59?style=plastic)
+
+![Static Badge](https://img.shields.io/badge/Data_Analysis-360421?style=plastic)
+
+![Static Badge](https://img.shields.io/badge/Dashboards_&_Stories-300520?style=plastic)
+
+![Static Badge](https://img.shields.io/badge/UI/UX-0a0420?style=plastic)
