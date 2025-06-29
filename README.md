@@ -55,9 +55,9 @@ All design thinking documentation, storyboards, and architecture are available i
 [ Click here for Documentation](https://drive.google.com/file/d/15AN1bvYyUA-HEF-wuXahXbG53zrtS0wa/view?usp=drive_link)
 
 ## Usage/Examples
-📌 Filter by year/region to discover iPhone growth in South India  
-📌 Analyze pricing trend across battery/display types  
-📌 Use the story view to narrate iPhone’s rise with data  
+📌 Filter by region to discover charging station in all over the india
+📌 Analyze Brands, price ,style,Powertrain, Different types   
+📌 Use the story view to narrate EV Car’s rise with data  
 
 
 ## Roadmap
