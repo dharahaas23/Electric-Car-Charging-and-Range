@@ -49,7 +49,7 @@
 
 ## Documentation
 
-Transformed raw sales and feature data into a strategic visual analytics dashboard for Apple iPhone performance in India using Tableau, powered by design thinking and data storytelling.
+Transformed raw sales and feature data into a strategic visual analytics dashboard for  electric carcand their charging station and range  in India using Tableau, powered by design thinking and data storytelling.
 
 
 ## Usage/Examples
